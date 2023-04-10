@@ -87,6 +87,10 @@ target/
 # pyenv
 .python-version
 schenv
+<<<<<<< HEAD
+=======
+
+>>>>>>> 318fd0586adbaffae58873f4c8536e8a8151bdba
 # pipenv
 #   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
 #   However, in case of collaboration, if having platform-specific dependencies or dependencies
